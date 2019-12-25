@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<paths>
+    <external-path path="Android/data/com.companyname.xamarinupdatedemo/" name="files_root" />
+    <external-path path="." name="external_storage_root" />
+<root-path name="root" path="" />
+  <files-path name="files" path="" />
+  <files-path name="images" path="/image/test" />
+  <cache-path name="cache" path="" />
+  <external-path name="external" path="" />
+  <external-files-path name="name" path="path" />
+  <external-cache-path name="name" path="path" />
+  <external-files-path name="my_images" path="Pictures" />
+  <external-files-path name="my_movies" path="Movies" />
+</paths>
